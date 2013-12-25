@@ -1,0 +1,12 @@
+###########################################################
+# Phonebook file sample
+###########################################################
+
+# Record format is:
+# TelNum[;Reference[;MessageText]]
+
++393481234567;Peter Sellers
++393358888888;Jim Carrey
++393377777777;Tom Cruise
++393486666666;Nicole Kidman
++393483333333;Stanley Kubrick

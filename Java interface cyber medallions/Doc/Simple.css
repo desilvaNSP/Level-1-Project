@@ -1,0 +1,101 @@
+BODY {
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: small;
+	background-color: #FFFFFF;
+	color: #000066; }
+
+h1, h2, h3, h4 {
+	font-family: verdana, Tahoma, Arial, Helvetica, sans-serif;	
+	font-weight: bold;
+	color: #000066; }
+	
+h1 {
+	font-size: 200%;
+	margin-bottom: 1.5em; }
+	
+h2 {
+	font-size: 150%;
+	margin-top: 1.5em;
+	margin-bottom: 1.2em; }
+	
+h3 {
+	font-size: 120%;
+	margin-top: 1.2em;
+	margin-bottom: .5em}
+	
+h4 {
+	font-size: 100%;
+	margin-top: 1.2em;
+	margin-bottom: .5em; }
+
+P  {
+	font: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+	font-size: small;
+	color: #000066; }
+
+CODE {
+	font: 100% Courier New, Courier, mono; }
+
+TD {
+	font-size: x-small; }
+
+TH {
+	font-size: x-small; }
+
+A:LINK {
+	color: #0000FF; }
+	
+A:VISITED {
+	color: #660066; }
+	
+A:HOVER {
+	color: #FF9900; }
+
+.linkdisabled {
+    color: #999999; }
+	
+.label {
+	font-weight: bold; }
+	
+.tl {
+	margin-bottom: .75em; }
+	
+.atl {
+	padding-left: 1.5em;
+	padding-bottom: .75em; }
+	
+.cfe {
+	font-weight: bold; }
+	
+.mini {
+	font-size: smaller; }
+	
+LI {
+	margin-top: .25em;
+	margin-bottom: .25em; }
+	
+OL LI {
+	margin-top: .25em;
+	margin-bottom: .25em; }
+
+/*UL {
+	list-style: disc; }*/
+
+UL UL, OL OL, OL UL, UL OL {
+	margin-top: .5em;
+	margin-bottom: .5em; }
+	
+LI P {
+	margin-top: .25em;
+	margin-bottom: .25em; }
+
+.dt {
+	margin-bottom: -1em; }
+	
+	
+.indent {
+	margin-left: 1.5em; }
+	
+SUP {
+	text-decoration: none;
+	font-size: smaller; }

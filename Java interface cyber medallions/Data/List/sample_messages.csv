@@ -1,0 +1,14 @@
+###########################################################
+# Messages file sample
+###########################################################
+
+# Record format is:
+# TelNum[;Reference[;MessageText]]
+
++393481234567;Peter Sellers;Call me ASAP
++393358888888;Jim Carrey;Meeting at 3:00PM
++393377777777;Tom Cruise;"www.news.com <Date> <Time><Return>NASDAQ +0.2%"
++393486666666;N.Kidman(CC#1234);"Mr/mrs.<Reference> your account is 4.35<Euro>"
++393485555555;;Call me ASAP
++393484444444;;Call me ASAP
++393483333333;Stanley Kubrick;"Please buy: bread; milk; chocolate; oranges"

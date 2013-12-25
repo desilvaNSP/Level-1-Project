@@ -1,0 +1,84 @@
+SMS&Co - Messaging and Communication Systems
+Mozzo (BG) ITALY
+
+
+=== DEMO SOFTWARE LICENSE AGREEMENT ===
+
+
+Please, read carefully this agreement before installing and using the
+enclosed software.
+SMS&Co grants you ("Customer") a license to use the enclosed software
+product ("Software") as indicated below.
+By installing and/or using the Software, you accept the following
+agreement: in order to do so, please click on "I Accept" button during
+installation.
+If you do not agree to the terms of this agreement, please click on
+"I Decline" button and promptly return back the whole software product
+to SMS&Co.
+
+
+AGREEMENT: this license agreement permits the Customer to use the enclosed
+Software to manage communication with only one GSM device. Any exception
+will be clearly stated between parties (see section EXCEPTIONAL TERMS).
+
+
+---------------------------------------------------------------------------
+EXCEPTIONAL TERMS: the enclosed Software is released as a demo and has a
+limited trial period starting from installation date.
+---------------------------------------------------------------------------
+
+
+COPYRIGHT: SMS&Co is the only owner of the Software. The Software
+is protected by Italian laws on copyrights and by related international
+treaties. Customer should treat the Software as any other copyrighted
+product, except for the ability to:
+(a) perform a backup/archive copy of the original disks/CDs
+(b) perform a unique hard-disk copy of the Software provided that the
+original copy is kept for backup/archive purposes.
+A unique copy of enclosed documentation (both in electronic and printed form)
+is permitted.
+
+
+OTHER RESTRICTIONS: Customer must keep and preserve this agreement.
+The Customer cannot:
+(i) perform any reverse engineering, decompiling or disassembling action
+on the Software or perform any other action in order to discover and/or
+modify the Software source code (both directly or assigning the task
+to third parties);
+(ii) transfer, sell, let or lease the Software or any other right on it
+(iii) delete or alter any trademark, logo, copyright or other proprietary
+information concerning the Software;
+THE CUSTOMER MUST NOT DIRECTLY, INDIRECTLY OR UNINTENTIONALLY MAKE EASIER
+OR HELP ANY THIRD PARTIES IN PERFORMING ONE OF THE ABOVE MENTIONED ACTIONS.
+THE CUSTOMER WILL OPERATE IN ORDER TO ADOPT ALL THE NEEDED ACTIONS IN ORDER
+TO AVOID ILLEGAL AND/OR UNAUTHORIZED SOFTWARE COPIES/DISTRIBUTIONS (FULL
+OR PARTIAL).
+
+
+WARRANTIES DISCLAIMER: SMS&Co disclaims any warranty, either express
+ot implied, included, but not limited to, implied warranties of merchantability
+or fitness for a particular purpose.
+
+
+NO LIABILITY FOR INDIRECT DAMAGES: Software is distributed "as is". SMS&Co
+shall not be liable for any indirect, incidental, special or consequential
+damages (included damages for loss of profits, revenue, data or data use),
+due to the Software usage and/or the unability to use the Software.
+However, SMS&Co's liability for damages shall in no event exceed the fees
+paid by customer under this agreement.
+
+
+For any other information concerning this agreement, before installing the
+Software, please contact by writing:
+
+  SMS&Co di Arrigoni Patrizia
+  Messaging and Communication Systems
+  Via Panzini, 17
+  24030 Mozzo (BG) ITALY
+
+  web:  www.smsco.it
+  mail: info@smsco.it
+
+
+---
+Mozzo (BG) ITALY, 16.05.2010

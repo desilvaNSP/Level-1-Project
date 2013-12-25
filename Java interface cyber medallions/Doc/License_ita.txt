@@ -1,0 +1,86 @@
+SMS&Co - Messaging and Communication Systems
+Mozzo (BG) ITALY
+
+
+=== ACCORDO DI LICENZA SOFTWARE DIMOSTRATIVA ===
+
+
+Per cortesia, leggere con attenzione questo accordo prima di installare e
+utilizzare il software accluso.
+SMS&Co concede a voi ("Cliente"), una licenza d'uso dell'accluso prodotto
+software ("Software").
+Installando e/o usando questo Software, accettate i termini del presente
+accordo: a questo scopo fare clic sul pulsante "I Accept".
+Nel caso in cui tali termini e condizioni non vengano accettati, fare clic
+sul pulsante "I Decline" e restituire immediatamente il Software e tutti i
+suoi componenti a SMS&Co.
+
+
+ACCORDO: Il presente Accordo di licenza consente al Cliente l'utilizzo del
+Software accluso per interagire con un unico dispositivo GSM a meno che sia
+stato diversamente ed esplicitamente concordato tra le parti (v. sezione
+CONDIZIONI PARTICOLARI).
+
+
+---------------------------------------------------------------------------
+CONDIZIONI PARTICOLARI: il presente software è rilasciato a scopo dimostra-
+tivo ed ha un periodo di validità limitato a partire dalla data di instal-
+lazione.
+---------------------------------------------------------------------------
+
+
+COPYRIGHT: Il Software è di proprietà di SMS&Co ed è protetto
+dalle leggi italiane sul copyright e dalle disposizioni dei trattati
+internazionali. Pertanto il Cliente è tenuto a considerare il Software come
+ogni altro prodotto coperto da copyright, eccezion fatta per la possibilità di:
+(a) fare una copia dei dischi originali come copia di backup o di archivio
+(b) trasferire il Software su un solo disco rigido, a condizione che conservi
+l'originale esclusivamente a fini di backup o di archivio.
+E' consentita la creazione di una singola copia cartacea della documentazione
+acclusa al Software in forma elettronica e cartacea.
+
+
+ALTRE RESTRIZIONI: Il presente accordo deve essere conservato dal Cliente.
+Il Cliente non può:
+(i) decodificare, decompilare o disassemblare il Software o effettuare
+qualsiasi altro tentativo per ottenere e/o modificare il codice sorgente
+del software (sia direttamente che rivolgendosi a terzi);
+(ii) ridistribuire, vendere, concedere in locazione/in leasing il software o
+trasferire diritti su di esso acquisiti;
+(iii) rimuovere o alterare qualsiasi marchio, logo, copyright o altre
+informazioni proprietarie nel software;
+IL CLIENTE NON DEVE DIRETTAMENTE, INDIRETTAMENTE O INAVVERTITAMENTE
+FACILITARE O AIUTARE ALTRI INDIVIDUI O ENTITA' IN ALCUNA DELLE ATTIVITA'
+PRECEDENTEMENTE ELENCATE E ACCETTA DI ADOTTARE TUTTI I NECESSARI ACCORGIMENTI
+PER EVITARE CHE VENGANO EFFETTUATE COPIE/RIDISTRIBUZIONI, TOTALI O PARZIALI,
+NON AUTORIZZATE.
+
+
+GARANZIA: SMS&Co non riconosce alcuna garanzia, espressa o
+implicita, comprese, tra le altre, la garanzia di commerciabilità
+o idoneità per un fine particolare.
+
+
+NESSUNA RESPONSABILITÀ PER DANNI INDIRETTI: il Software è distribuito "as is".
+In nessun caso, SMS&Co potrà essere ritenuta responsabile per danni (inclusi
+danni per mancato guadagno, interruzione dell'attività, perdita di informazioni
+o altra perdita pecuniaria) derivante dall'uso o dall'incapacità di utilizzare
+questo software.
+In ogni caso, l'eventuale responsabilità di SMS&Co per danni non potrà superare
+l'ammontare pagato dal cliente per l'acquisto della presente licenza.
+
+
+Per ulteriori informazioni relative al presente Accordo, prima di installare
+il Software, contattare per iscritto:
+
+  SMS&Co di Arrigoni Patrizia
+  Messaging and Communication Systems
+  Via Panzini, 17
+  24030 Mozzo (BG) ITALY
+
+  web:  www.smsco.it
+  mail: info@smsco.it
+
+
+---
+Mozzo (BG) ITALY, 16.05.2010
